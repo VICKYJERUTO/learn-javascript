@@ -5,6 +5,6 @@ class car{
     }  
 age(){
   const date =new date;
-  return this.name-new year;
+  return thi-new year;
 }  
 }
